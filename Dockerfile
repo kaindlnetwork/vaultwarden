@@ -1,4 +1,4 @@
-FROM vaultwarden/server:latest
+FROM vaultwarden/server:alpine
 
 MAINTAINER Fabian Kaindl <github-docker@fabiankaindl.de>
 # Add Healthcheck into the Image
